@@ -1,5 +1,12 @@
 # ✅ Task Manager with Progress Tracker
 
+### 🎓 AICTE + Edunet Foundation Frontend Web Development Internship Project  
+**Intern Name:** Mayur Zope                 
+**AICTE ID:** STU681ba784e31251746642820  
+**Project Duration:** August 2025 - October 2025
+
+---
+
 A simple and aesthetic **Task Manager web app** built using **HTML, CSS, and JavaScript (Local Storage)**.  
 This app helps users **add, edit, complete, delete tasks** and track their daily progress visually with a progress bar.
 
@@ -60,4 +67,5 @@ Mayur Zope
 GitHub: @coder06082005
 
 LinkedIn: https://www.linkedin.com/in/mayurzope06/
+
 
