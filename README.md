@@ -60,6 +60,8 @@ task-manager-progress-tracker/
 
 └── README.md       # Project documentation
 
+---
+
 👨‍💻 Author
 
 Mayur Zope
@@ -68,5 +70,17 @@ GitHub: @coder06082005
 
 LinkedIn: https://www.linkedin.com/in/mayurzope06/
 
+---
 
+## 🏁 Acknowledgements
+
+Special thanks to:
+- **IBM SkillsBuild**
+- **Edunet Foundation**
+- **AICTE**
+- All mentors who guided during this AI Internship
+
+---
+
+> 🙏 Thank you for visiting my project. Do ⭐ star the repo if you find it useful or inspiring!
 
