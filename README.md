@@ -10,6 +10,10 @@
 A **Task Manager web app** built using **HTML, CSS, and JavaScript (Local Storage)**.  
 This app helps users **add, edit, complete, delete tasks** and track their daily progress visually with a progress bar.
 
+## 🔗 Live Demo
+
+Experience the Task Manager application live in your browser:-  http://task-manager-with-progress-tracker-eight.vercel.app
+
 ---
 
 ## 🌟 Features
@@ -29,7 +33,7 @@ This app helps users **add, edit, complete, delete tasks** and track their daily
 
 - **HTML5** – Structure of the app
 - **CSS3** – Modern styling with flexbox & responsive design
-- **JavaScript (ES6)** – Logic & functionality
+- **JavaScript** – Logic & functionality
 - **Local Storage** – Persistent data storage
 
 ---
@@ -83,4 +87,5 @@ Special thanks to:
 ---
 
 > 🙏 Thank you for visiting my project. Do ⭐ star the repo if you find it useful or inspiring!
+
 
