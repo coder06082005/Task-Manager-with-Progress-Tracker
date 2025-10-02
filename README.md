@@ -7,7 +7,7 @@
 
 ---
 
-A simple and aesthetic **Task Manager web app** built using **HTML, CSS, and JavaScript (Local Storage)**.  
+A **Task Manager web app** built using **HTML, CSS, and JavaScript (Local Storage)**.  
 This app helps users **add, edit, complete, delete tasks** and track their daily progress visually with a progress bar.
 
 ---
@@ -40,7 +40,7 @@ This app helps users **add, edit, complete, delete tasks** and track their daily
 
 1. Clone the Repository
 
-   git clone https://github.com/your-username/task-manager-progress-tracker.git
+   git clone https://github.com/coder06082005/Task-Manager-with-Progress-Tracker
 
 2. Navigate to Project Folder
    cd task-manager-progress-tracker
@@ -67,5 +67,6 @@ Mayur Zope
 GitHub: @coder06082005
 
 LinkedIn: https://www.linkedin.com/in/mayurzope06/
+
 
 
